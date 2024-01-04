@@ -1,2 +1,2 @@
-# Standard-ABI-Json
+# Standard ABI Json
 ABI json sample for Ethernum EVM-compatible standard smart contracts: ERC20, ERC721, ERC1155, DEXs ...
